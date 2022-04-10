@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2021-09-11T08:20:25Z" finished-at="2021-09-11T08:20:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2021-09-11T08:20:25Z" finished-at="2021-09-11T08:20:25Z">
+      <class name="msacademy.Mavenjava.Appium">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:msacademy.Mavenjava.Appium@12b0404f]" name="IOSApps" duration-ms="19" started-at="2021-09-11T13:50:25Z" finished-at="2021-09-11T13:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="appleproduct()[pri:0, instance:msacademy.Mavenjava.Appium@12b0404f]" name="appleproduct" duration-ms="0" started-at="2021-09-11T13:50:25Z" finished-at="2021-09-11T13:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleproduct -->
+      </class> <!-- msacademy.Mavenjava.Appium -->
+      <class name="msacademy.Mavenjava.RESTAPITest">
+        <test-method status="PASS" signature="deletetwitter()[pri:0, instance:msacademy.Mavenjava.RESTAPITest@6193932a]" name="deletetwitter" duration-ms="0" started-at="2021-09-11T13:50:25Z" finished-at="2021-09-11T13:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+        <test-method status="PASS" signature="restapi()[pri:0, instance:msacademy.Mavenjava.RESTAPITest@6193932a]" name="restapi" duration-ms="0" started-at="2021-09-11T13:50:25Z" finished-at="2021-09-11T13:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restapi -->
+      </class> <!-- msacademy.Mavenjava.RESTAPITest -->
+      <class name="msacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="browserautomation()[pri:0, instance:msacademy.Mavenjava.SeleniumTest@71b1176b]" name="browserautomation" duration-ms="1" started-at="2021-09-11T13:50:25Z" finished-at="2021-09-11T13:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomation -->
+        <test-method status="PASS" signature="elements()[pri:0, instance:msacademy.Mavenjava.SeleniumTest@71b1176b]" name="elements" duration-ms="1" started-at="2021-09-11T13:50:25Z" finished-at="2021-09-11T13:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elements -->
+      </class> <!-- msacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

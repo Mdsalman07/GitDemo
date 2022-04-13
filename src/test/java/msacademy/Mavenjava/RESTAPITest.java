@@ -7,6 +7,8 @@ public class RESTAPITest {
 	@Test
 	public void restapi() {
 		System.out.println("restapi");
+		System.out.println("restapi1");
+		System.out.println("restapi2");
 		
 	}
 	

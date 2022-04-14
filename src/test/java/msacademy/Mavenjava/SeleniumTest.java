@@ -13,12 +13,12 @@ public class SeleniumTest {
 	
     @Test
     public void elements() {
-    	System.out.println("elements in UI");
+    	System.out.println("elements in U23I");
     }
     
     @Test
     public void elementsU1I() {
-    	System.out.println("elements in U1i");
+    	System.out.println("elements in U146i");
     }
 
 }
